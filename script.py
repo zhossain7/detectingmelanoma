@@ -7,7 +7,7 @@ from tensorflow.keras.optimizers import Adam
 import os
 
 # Define paths to your dataset and model
-dataset_dir = 'C:/Users/zoobe/Documents/projects/skin detection/dataset'
+dataset_dir = 'locationhere'
 model_path = 'melanoma_classifier.keras'
 
 # Image data generators for loading and augmenting images
