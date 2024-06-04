@@ -17,13 +17,13 @@
 10. [Final Thoughts](#final-thoughts)
 
 ## Project Introduction
-This project was initiated to explore the application of machine vision in detecting melanoma, a serious form of skin cancer. Leveraging advancements in deep learning and computer vision, the project aims to develop an accurate and efficient model to assist in early detection of melanoma, potentially saving lives through timely diagnosis and treatment.
+This project was initiated to explore the application of machine vision in detecting melanoma, a serious form of skin cancer. Leveraging advancements in deep learning and computer vision, the project aims to develop an accurate and efficient model to assist in early detection of melanoma, potentially saving lives through timely diagnosis and treatment. The project took around 18 hours to train on my own computer with a dataset comprised of over 70,000 images.
 
 ## Project Overview
 The core of this project involves training a convolutional neural network (CNN) using the EfficientNetB0 architecture, fine-tuning it for the specific task of classifying skin lesions as either benign or malignant. The trained model is then integrated into a user-friendly graphical user interface (GUI) to make it accessible for practical use.
 
 ## Establish a Dataset
-The dataset used for this project comprises images of skin lesions categorized into benign and malignant classes. This dataset was sourced from a reliable medical repository and split into training and validation sets to evaluate model performance.
+The dataset used for this project comprises images of skin lesions categorized into benign and malignant classes. This dataset was sourced from a reliable medical repository and split into training and validation sets to evaluate model performance. The dataset was retrieved from the The International Skin Imaging Collaboration​ (ISIC) and can be accessed via [this link.](https://gallery.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery?filter=%5B%22benign_malignant%7Cbenign%22%5D)
 
 ## Machine Learning Models
 
