@@ -6,7 +6,7 @@ import tensorflow as tf
 import cv2
 
 # Load the trained model
-model_path = 'C:/Users/zoobe/Documents/projects/skin detection/melanoma_classifier.keras'
+model_path = 'locationhere/melanoma_classifier.keras'
 model = tf.keras.models.load_model(model_path)
 
 def preprocess_image(image_path):
