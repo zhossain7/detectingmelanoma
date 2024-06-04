@@ -148,6 +148,9 @@ upload_btn.pack(pady=10)
 
 root.mainloop()
 ```
+
+![image](https://github.com/zhossain7/detectingmelanoma/assets/100549035/5daf4582-0d3a-4292-aa61-58c2d49b59b6)
+
 ## Conclusion
 This project highlights the potential of machine vision and deep learning in the medical field, specifically for detecting melanoma. The combination of a robust CNN model and a user-friendly GUI demonstrates a practical approach to assist healthcare providers in early diagnosis. Future work could involve expanding the dataset, improving model accuracy, and integrating additional features for a more comprehensive diagnostic tool.
 
