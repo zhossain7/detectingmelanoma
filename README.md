@@ -104,9 +104,6 @@ history_fine = model.fit(
     epochs=10
 )
 ```
-## Model Evaluation
-The model's performance was evaluated using accuracy, precision, recall, and F1-score metrics. The fine-tuned model showed significant improvements in correctly classifying melanoma, demonstrating its potential for real-world application.
-
 ## GUI Application
 A user-friendly GUI was developed to allow users to upload images and receive instant classification results. This application was built using Python's Tkinter library and integrates the trained model to provide real-time predictions.
 
